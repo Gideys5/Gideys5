@@ -28,7 +28,7 @@
 
   <!-- IMMAGINE A SINISTRA -->
   <!-- Sostituisci YOUR_IMAGE_URL con il link della tua immagine -->
-  <img src="assets/profile.png" alt="My Profile" style="width:170px; height:170px; border-radius:50%;">
+  <img src="profile.png" alt="My Profile" style="width:170px; height:170px; border-radius:50%;">
 
   <!-- Testo centrato -->
   <text x="260" y="110" class="title">Alessandro Cognome</text>
