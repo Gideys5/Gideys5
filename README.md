@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Gideys5/Gideys5/main/banner.svg" width="100%" />
+</p>
 
 
 Programmatore, scrittore e costruttore seriale di idee.  
