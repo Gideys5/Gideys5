@@ -1,8 +1,6 @@
-## Hi there 👋
-
-# Alessandro 🤌  
+# Alessandro -![Uploading ClipWindowsGIF.gif…]()
+ 
 Programmatore, scrittore e costruttore seriale di idee.  
-A volte creo software eleganti, a volte codice che grida vendetta. Fa parte del gioco.
 
 ---
 
