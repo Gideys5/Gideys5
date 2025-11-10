@@ -46,10 +46,19 @@ Programmatore, scrittore e costruttore seriale di idee.
 - Python quando voglio qualcosa di veloce e indolore
 - TypeScript con React perchè si. 
 - C# visto per lo sviluppo Windows, per ora mi vede solo da lontano
+- Linux uso base, ma ammetto un reale interesse
 - JavaScript ci tocca nominarlo... 
 
 ## 📊 Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=TUOUSERNAME&show_icons=true&theme=tokyonight" />
+<div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TUOUSERNAME&layout=compact&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api?username=Gideys5&show_icons=true&theme=tokyonight&hide_border=true" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gideys5&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
+
+## 🧩 Fun fact
+Scrivo codice e scrivo libri.  
+Entrambi hanno plot twist, la differenza è che nei libri li decido io.
