@@ -28,7 +28,7 @@
 
   <!-- IMMAGINE A SINISTRA -->
   <!-- Sostituisci YOUR_IMAGE_URL con il link della tua immagine -->
-  <image href="file:///C:/Users/aisale/Downloads/profile.png" x="40" y="40" height="170" width="170" clip-path="circle(85px at 85px 85px)" />
+  <img src="assets/profile.png" alt="My Profile" style="width:170px; height:170px; border-radius:50%;">
 
   <!-- Testo centrato -->
   <text x="260" y="110" class="title">Alessandro Cognome</text>
