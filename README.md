@@ -40,16 +40,13 @@ Programmatore, scrittore e costruttore seriale di idee.
 
 ---
 
-## 📚 Un po’ di me come dev
+## 📚 Un po’ di me come programmatore
 
-- C# lo uso quando devo parlare con hardware esterni senza impazzire  
-- Java mi vuole bene ma non sempre è reciproco  
-- JavaScript è casa  
-- Kotlin… ci stiamo ancora guardando da lontano  
-- Python quando voglio qualcosa di veloce e indolore  
-- TypeScript con React per non piangere in produzione  
-
----
+- Java mi vuole bene ma non sempre è reciproco, per questo preferisco Spring
+- Python quando voglio qualcosa di veloce e indolore
+- TypeScript con React perchè si. 
+- C# visto per lo sviluppo Windows, per ora mi vede solo da lontano
+- JavaScript ci tocca nominarlo... 
 
 ## 📊 Stats
 
