@@ -1,4 +1,4 @@
-# Alessandro -![Uploading ClipWindowsGIF.gif…]()
+# 🔥🔥Alessandro🔥🔥
  
 Programmatore, scrittore e costruttore seriale di idee.  
 
